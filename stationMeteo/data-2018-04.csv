@@ -1,0 +1,2 @@
+# dateTime,ET,altimeter,appTemp,barometer,channel,cloudbase,dewpoint,heatindex,humidex,inDewpoint,inTemp,interval,maxSolarRad,outHumidity,outTemp,outTempBatteryStatus,pressure,rain,rainRate,rain_total,rssi,rxCheckPercent,sensor_battery,sensor_id,usUnits,windDir,windGust,windGustDir,windSpeed,windchill,windrun
+2018-04-17 16:20:00,None,979.776533071,22.412951492,980.052957943,None,2040.03133891,6.8355203126,23.1481481481,23.1481481481,None,23.85,5,None,35.0,23.1481481481,0.0,979.375,0.0,0.0,0.0762,3.0,100.0,0.0,138.0,17,None,0.0,None,0.0,23.1481481481,0.0
